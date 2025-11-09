@@ -12,7 +12,7 @@
     </head>
     <body>
         <model-viewer 
-        src="assets/clamp.glb" 
+        src="clamp.glb" 
         alt="3D Model of a clamp" 
         shadow-intensity="1" 
         camera-controls 
